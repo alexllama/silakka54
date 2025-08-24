@@ -1,5 +1,5 @@
-# Slikka54 keyboard layout
-File for programming the slikka54 keyboard via the Vial [website](https://vial.rocks/).
+# Silakka54 keyboard layout
+File for programming the silakka54 keyboard via the Vial [website](https://vial.rocks/).
 
 Current layout
 <img width="836" height="774" alt="image" src="https://github.com/user-attachments/assets/b532f01d-887b-4aac-8a4d-5b68ae575f8d" />
