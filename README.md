@@ -5,13 +5,13 @@ Current layout (v3)
 
 <img width="846" height="822" alt="image" src="https://github.com/user-attachments/assets/7f067767-b971-439f-b848-3ab6fca97e95" />
 
-In layer 1 I added Tap Dance keys for the leftmost and rightmost columns. In the image above, italics is for the Hold action.
+In layer 1 I added Tap Dance keys for the rightmost column. In the image above, italics is for the Hold action.
 
 In TD(n) notation they are defined as follows:
-- TD(10), TD(14): CTRL
-- TD(11), TD(15): SHIFT
-- TD(12), TD(16): ALT
-- TD(13), TD(17): WIN/SUPER
+- TD(14): CTRL
+- TD(15): SHIFT
+- TD(16): ALT
+- TD(17): WIN/SUPER
 
 And the following on Layer 1:
 - Print Screen
