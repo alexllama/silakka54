@@ -3,7 +3,7 @@ File for programming the silakka54 keyboard via the Vial [website](https://vial.
 
 Current layout
 
-<img width="930" height="855" alt="image" src="https://github.com/user-attachments/assets/b1ef0c18-68de-4999-a07a-a4cc47121163" />
+<img width="768" height="730" alt="image" src="https://github.com/user-attachments/assets/d25dc096-dad8-49ff-9627-e3cfec14e37f" />
 
 In layer 0 I added Tap Dance keys for the rightmost column. In the image above, italics is for the Hold action.
 
