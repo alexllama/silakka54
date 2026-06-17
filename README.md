@@ -8,7 +8,7 @@ File for programming the silakka54 keyboard via the Vial [website](https://vial.
 
 ### From vial.rocks
 #### Layer 0
-<img width="781" height="370" alt="image" src="https://github.com/user-attachments/assets/beb7448e-d124-4a01-b5fa-b5b0bd081dc7" />
+<img width="766" height="348" alt="image" src="https://github.com/user-attachments/assets/5f9e128d-0080-4a35-8f2b-938a507753bc" />
 
 #### Layer 1
 <img width="787" height="362" alt="image" src="https://github.com/user-attachments/assets/47ec16fe-b1b5-4b84-b2ff-95c5b21a42ad" />
