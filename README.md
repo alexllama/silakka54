@@ -11,7 +11,7 @@ File for programming the silakka54 keyboard via the Vial [website](https://vial.
 <img width="766" height="348" alt="image" src="https://github.com/user-attachments/assets/5f9e128d-0080-4a35-8f2b-938a507753bc" />
 
 #### Layer 1
-<img width="787" height="362" alt="image" src="https://github.com/user-attachments/assets/47ec16fe-b1b5-4b84-b2ff-95c5b21a42ad" />
+<img width="849" height="398" alt="image" src="https://github.com/user-attachments/assets/77fe8164-4f44-4438-96f2-7e0bbff4af2a" />
 
 
 ### Notes for Layer 0
