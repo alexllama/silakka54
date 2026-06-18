@@ -4,14 +4,14 @@ File for programming the silakka54 keyboard via the Vial [website](https://vial.
 ## Current layout
 
 ### Readable format
-<img width="877" height="834" alt="image" src="https://github.com/user-attachments/assets/349a2574-0a67-4dd5-bc26-1f23510cfd43" />
+<img width="845" height="827" alt="image" src="https://github.com/user-attachments/assets/e71db916-2dbe-4121-974d-bcb0629b1d31" />
 
 ### From vial.rocks
 #### Layer 0
 <img width="766" height="348" alt="image" src="https://github.com/user-attachments/assets/5f9e128d-0080-4a35-8f2b-938a507753bc" />
 
 #### Layer 1
-<img width="849" height="398" alt="image" src="https://github.com/user-attachments/assets/77fe8164-4f44-4438-96f2-7e0bbff4af2a" />
+<img width="795" height="358" alt="image" src="https://github.com/user-attachments/assets/e0169345-1c8f-4791-a3e5-8aec266441c4" />
 
 
 ### Notes for Layer 0
