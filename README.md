@@ -32,4 +32,6 @@ Macro 0 (Mod+C) switches to Outlook using Win+2, then switches to Calendar with 
 
 Macro 2 (CTRL+D, Space, CTRL+T) prints the date, a space, then the time in Obsidian
 
-F9 (mapped to Q) is the AutoHotkey keyboard shortcut for toggling mute on a Teams call
+Macro 3 (Win+Alt+K) toggles muting the microphone in Windows at a global level
+
+~~F9 (mapped to Q) is the AutoHotkey keyboard shortcut for toggling mute on a Teams call~~
