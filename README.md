@@ -16,10 +16,10 @@ File for programming the silakka54 keyboard via the Vial [website](https://vial.
 
 ### Notes for Layer 0
 Implented Tap Dance keys for many of the keys typically modified with CTRL. In the image above, italics is for the hold action. Here is the list:
-- TD23/M3 Undo Z
-- TD24/M4 Cut X
-- TD25/M5 Copy C
-- TD26/M6 Paste V
+- TD23 Undo Z
+- TD24 Cut X
+- TD25 Copy C
+- TD26 Paste V
   
 Tap Dance 0 is for Esc or Super key when held down
 
